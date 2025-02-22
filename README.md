@@ -27,7 +27,7 @@ Currently, I'm diving into:
 
 ## 🌱 Currently Learning
   
-- Reinforcement learning for real-world applications  
+- LLM inference 
 - Optimizing large-scale web applications  
 
 
