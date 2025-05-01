@@ -35,5 +35,5 @@ Currently, I'm diving into:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-satish/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ajays4@illinois.edu)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)](https://ajaysatish.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)](http://ajaysatish.com/)
 
