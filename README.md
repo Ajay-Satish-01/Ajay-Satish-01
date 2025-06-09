@@ -5,9 +5,11 @@
 I'm a **Software Engineer** specializing in **system design, web optimization, and perception**. I thrive on exploring creativity through diverse perspectives, curiosity, and experimentation.  
 
 Currently, I'm diving into:
-- Generative AI and its applications in design and creativity 🤖✨  
-- Climate sensitivity modeling and prediction 📊🌍  
-- Perception software engineering 🚗🖥️  
+- 🧠 Generative AI
+- 🧰 MLOps & model deployment pipelines
+- 🌦️ Climate sensitivity modeling & prediction tooling
+- 🚘 Perception software engineering
+- 🌐 Open source contributor
 
 ## 🛠️ Skills & Tools
 
