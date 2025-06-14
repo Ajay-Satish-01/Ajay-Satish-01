@@ -30,7 +30,8 @@ Currently, I'm diving into:
 ## 🌱 Currently Learning
   
 - LLM inference 
-- Optimizing large-scale web applications  
+- Optimizing large-scale web applications
+- Go (Systems)
 
 
 ## 📫 Connect with Me
